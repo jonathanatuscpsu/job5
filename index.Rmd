@@ -101,14 +101,14 @@ ggtitle('Crime in New York City')
 
 ## Observation
 
-- The overall structure of the contours seem to be about the same as the aggregate, with the largest hotspot centered in the harlem neighborhood southern Brox area. 
+- The overall structure of the contours seem to be about the same as the aggregate, with the largest hotspot centered in the harlem neighborhood southern Bronx area. 
 
 - With Felony Assault and Robbery, these occurrences seem to be much more concentrated. Additionally, a hotspot for Harassment appears in the same area.
 
 - These three crime types generated the shades in the lower Manhattan area and Brooklyn area. 
 
 ## References
-##### GGPlot2 Documentation s[https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf].
+##### GGPlot2 Documentations[https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf].
 ##### GGPlot2 Quickstart [https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/ggmap/ggmapCheatsheet.pdf].
 
 
