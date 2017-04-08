@@ -199,7 +199,7 @@ ggmap(myMap, extent = "device") + lims + contours + scale_alpha_continuous(range
 - These three crime types generated the shades in the lower Manhattan area and Brooklyn area. 
 
 ## References
-##### GGPlot2 Documentation)[https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf].
+##### GGPlot2 Documentations[https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf].
 ##### GGPlot2 Quickstart [https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/ggmap/ggmapCheatsheet.pdf].
 
 
