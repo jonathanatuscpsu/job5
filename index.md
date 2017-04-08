@@ -192,7 +192,7 @@ ggmap(myMap, extent = "device") + lims + contours + scale_alpha_continuous(range
 
 ## Observation
 
-- The overall structure of the contours seem to be about the same as the aggregate, with the largest hotspot centered in the harlem neighborhood southern Brox area. 
+- The overall structure of the contours seem to be about the same as the aggregate, with the largest hotspot centered in the harlem neighborhood southern Bronx area. 
 
 - With Felony Assault and Robbery, these occurrences seem to be much more concentrated. Additionally, a hotspot for Harassment appears in the same area.
 
